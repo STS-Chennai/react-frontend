@@ -1,7 +1,7 @@
 body {
-  background-color: #00BCD4;
-  padding: 20px;
+  background-color: #00bcd4;
   margin: 0;
+  padding: 20px;
 }
 
 h1,
@@ -15,7 +15,6 @@ li {
 ul.header li {
   display: inline;
   list-style-type: none;
-  margin: 0;
 }
 
 ul.header {
@@ -25,10 +24,10 @@ ul.header {
 
 ul.header li a {
   color: #FFF;
+  display: inline-block;
   font-weight: bold;
   text-decoration: none;
   padding: 20px;
-  display: inline-block;
 }
 
 .content {
@@ -37,8 +36,8 @@ ul.header li a {
 }
 
 .content h2 {
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
 .content li {
